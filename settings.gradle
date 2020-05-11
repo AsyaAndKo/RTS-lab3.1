@@ -1,0 +1,2 @@
+rootProject.name='RTSlab3'
+include ':app'
